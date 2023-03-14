@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px" height="30px">, It's Saleh Imran here. Professional PHP/Laravel Full Stack Expert</h1>
 
-<p align="center" width="150px">Code Addicted | Thinker | Problem Solver | Coding Geek 💻</p>
+<p align="center" width="150px">Code Addicted | Thinker | Problem Solver | Coding Geek 💻 | Web Enthusiast</p>
 
 - 💻 Currently working as a Site PHP Engineer
 - ☁️ Interested in Cloud Computing and Systems Design
@@ -10,6 +10,15 @@
 - 📂 Looking to contribute to open source software
 - ☕ Ask me about philosophy, debate, and coffee
 - 🌎 Everything in the world is connected in some way
+
+
+### :link: Key Skills:
+
+- Promoting and communicating new ideas<br>
+- Creating process improvements<br>
+- Instituting new technologies<br>
+- Writing maintainable clear/high-quality code<br>
+- Ensuring code is scalable and responsive<br>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -33,4 +42,5 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
 
+<hr />
 <p align="center"><i>"A ship is safe in harbor, but that's not what ships are for." — William Shedd</i></p>    
