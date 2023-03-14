@@ -2,7 +2,14 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px" height="30px">, It's Saleh Imran here. Professional PHP/Laravel Full Stack Expert</h1>
 
-<p align="center" width="150px">Code Addicted | Thinker | Problem Solver | Coding Geek</p>
+<p align="center" width="150px">Code Addicted | Thinker | Problem Solver | Coding Geek 💻</p>
+
+- 💻 Currently working as a Site PHP Engineer
+- ☁️ Interested in Cloud Computing and Systems Design
+- 🛠️ I’m currently developing a Chrome extension 
+- 📂 Looking to contribute to open source software
+- ☕ Ask me about philosophy, debate, and coffee
+- 🌎 Everything in the world is connected in some way
 
 ### 🛠 &nbsp;Tech Stack
 
